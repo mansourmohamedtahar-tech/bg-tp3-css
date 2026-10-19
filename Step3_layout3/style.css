@@ -1,0 +1,100 @@
+*{
+  margin: 0 auto ;
+  
+}
+
+.container{
+  background-color: gray;
+  width: 90%;
+  height: 60px;
+  border: 1px solid black;
+  max-width: 1100px;
+  margin-top: 200px;
+  position: relative;
+  bottom:60px;
+}
+
+
+
+.main-nav {
+  background-color: gray;
+  width: 90%;
+  height: 60px;
+  border: 1px solid black;
+  max-width: 1100px;
+  margin-top: 200px;
+  position: absolute;
+  bottom:300px;
+  
+}
+
+.showcase{
+  background-color:gray;
+  width: auto;
+  height:60px ;
+  width: 100%;
+  border:1px solid black ;
+  margin-top:60px;
+}
+
+
+
+
+
+.follow{
+   background-color: #d3eaac;
+  width: auto;
+  height:60px ;
+  width: 100%;
+  border:1px solid black ;
+}
+
+.ruban-dark{
+ background-color: #d3eaac;
+  width: auto;
+  height:60px ;
+  width: 100%;
+  border:1px solid black ;
+}
+
+.home-cards{
+ background-color: #d3eaac;
+  width: auto;
+  height:60px ;
+  width: 100%;
+  border:1px solid black ;
+}
+
+#bigData-intro{
+ background-color: #d3eaac;
+  width: auto;
+  height:60px ;
+  width: 100%;
+  border:1px solid black ;
+}
+
+.home-cards{
+ background-color: #d3eaac;
+  width: auto;
+  height:60px ;
+  width: 100%;
+  border:1px solid black ;
+}
+
+.sub-footer{
+  background-color: #d3eaac;
+  width: 100%;
+  height: 60px;
+
+}
+
+.links{
+   background-color: #d3eaac;
+  width: 100%;
+  height: 60px;
+  border: 1px solid 
+}
+
+div{
+  margin-bottom:308px;
+}
